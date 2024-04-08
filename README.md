@@ -1,6 +1,6 @@
 # proge_projekt
 
-Probleemi kirjeldus - Sudoku mängulaua generaator. Genereerib 3x3 (kus omakorda 3x3) ruutudest koosneva klassikalise mängulaua.
+Probleemi kirjeldus - Sudoku generaator. Genereerib 9x9 ruudust koosneva interaktiivse mängulaua.
 
 Eesmärgid ja lahenduse ülevaade - Eesmärgiks luua isiklik Sudokut genereeriv programm, mis piisavalt kerge ka vanemate riistvarade jaoks ning töötaks ilma internetita.
 
