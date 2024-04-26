@@ -10,4 +10,4 @@ Tööjaotus rühma liikmete vahel - Idee Rene Vainula. Vigade parandus/täiendus
 
 Ajakava ja vahe-eesmärgid- algne kood valmis märtsi lõpus. Täiendused/parandused/projekti kirjeldus aprilli algus/keskpaik. 
 Aprilli algul lisatud algne versioon töötavast koodist.
-Aprilli keskpaigas lisatud esimene täiendus.
+Aprilli keskpaigas lisatud esimene täiendus, mis medukalt merge'tud.
