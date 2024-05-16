@@ -10,7 +10,7 @@ Ajakava ja vahe-eesmärgid/teostatud tööde kirjeldus: Vahe-eesmärkide paremak
 *Täiendused/parandused/projekti kirjeldus aprilli algus/keskpaik.    
 *Aprilli algul lisatud algne versioon töötavast koodist, kus imporditud mänguks vajalikud liidesed, loodud funktsioon main, määratud mängulaua suurus ja disain ning algväärtustatud laud, mis esialgselt numbritega täidetud. Joonistatud esialgne mängulaud.  
 *Aprilli keskpaigas lisatud esimene täiendus, kus olevad muudatused kasutajaliideses: Lisatud board muutuja algväärtustamine, lisatud sisestamise funktsioon insert, mis lubab kasutajal lauale väärtusi sisestada. Numbrilaud uueneb automaatselt. Ruudustik tehtud kompaktsemaks/font muudetud. Merge'tud - toimib.  
-*Kolmandas versioonis, mis lisatud mai alguses olevad uuendused: - lisatud suvalise laua genereerimine (tehtud kindlaks, et ta on loogiliselt lahendatav ja aktsepteeritud sudoku reeglite järgi) ning lisaks võimalus lahendada keskmise raskusasmega sudokut.  
+*Kolmandas versioonis, mis lisatud mai alguses olevad uuendused: lisatud suvalise laua genereerimine (tehtud kindlaks, et ta on loogiliselt lahendatav ja aktsepteeritud sudoku reeglite järgi) ning lisaks võimalus lahendada keskmise raskusasmega sudokut.  
 *Neljas versioon valmis mai keskpaigaks: lisatud sai võidusõnum ja lahenduse kontroll võrreldes algsudokuga. Kontrollitud kogu programmi töötamist ja lahendamist. Toimib  
 
 Projekti kokkuvõte: loodud Sudoku mäng, mis kasutab pygame'i graafilise kasutajaliidese loomiseks.
