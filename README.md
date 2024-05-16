@@ -14,7 +14,7 @@ Ajakava ja vahe-eesmärgid/teostatud tööde kirjeldus: Vahe-eesmärkide paremak
 
 *Kolmandas versioonis, mis lisatud mai alguses olevad uuendused: - lisatud suvalise laua genereerimine (tehtud kindlaks, et ta on loogiliselt lahendatav ja aktsepteeritud sudoku reeglite järgi) ning lisaks võimalus lahendada keskmise raskusasmega sudokut.
 
-*Neljas versioon valmis mai keskpaigaks:
+*Neljas versioon valmis mai keskpaigaks: lisatud sai võidusõnum ja lahenduse kontroll võrreldes algsudokuga. Kontrollitud kogu programmi töötamist ja lahendamist. Toimib
 
 Projekti kokkuvõte:
 
